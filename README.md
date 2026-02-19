@@ -1,8 +1,8 @@
 Deezer client that allows you to display want you're listening to in Discord like Spotify do.
 
-It's not mine
+It's not mine, just changed some assets to display the new Deezer logo in Discord.
 
-Just changed some assets to display the new Deezer logo in Discord.
+Originally made by Braasileiro
 
 # Showcase
 <p align="center">
