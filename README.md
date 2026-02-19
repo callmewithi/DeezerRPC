@@ -6,5 +6,5 @@ Originally made by Braasileiro
 
 # Showcase
 <p align="center">
-  <img src="./assets/readme/discord_status.png">
+  <img src="./assets/discord_status.png">
 </p>
